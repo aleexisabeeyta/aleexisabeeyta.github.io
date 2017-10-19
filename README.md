@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to TechStart Porfolio 
 
 You can use the [editor on GitHub](https://github.com/aleexisabeeyta/aleexisabeeyta.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -16,10 +16,9 @@ Syntax highlighted code block
 ### Header 3
 
 - Bulleted
-- List
 
 1. Numbered
-2. List
+
 
 **Bold** and _Italic_ and `Code` text
 
